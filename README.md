@@ -19,7 +19,7 @@ To get started with this project template, follow these steps:
 
 incase of apnormal using via bun create template
 ```bash
-bun create github.com/14f3v/14f3v/14f3v.bun-express.ts example_project
+bun create github.com/14f3v/14f3v.bun-express.ts example_project
 ```
 
 then change directory into example_project and run bun install to install dependencies
